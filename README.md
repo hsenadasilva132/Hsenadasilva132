@@ -1,16 +1,24 @@
-## Hi there 👋
+  # Henrique Sena <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/788735f2-26c5-4d23-bc4e-4dd8fb89cb81" />
 
-<!--
-**hsenadasilva132/Hsenadasilva132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **`Desenvolvedor Fullstack`**
 
-Here are some ideas to get you started:
+Desenvolvedor Front-end em início de carreira, apaixonado por tecnologia e criação de interfaces modernas e responsivas. Tenho experiência com JavaScript, React, HTML, CSS e estou ampliando meus conhecimentos em desenvolvimento full-stack, Node.js e PostgreSQL. Gosto de transformar ideias e layouts do Figma em aplicações funcionais, buscando sempre evoluir minhas habilidades através de projetos práticos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+$ whoami
+
+> Henrique Sena
+
+$ role
+
+> Front-end Developer
+
+$ stack
+
+> React
+> JavaScript
+> Node.js
+> PostgreSQL
+
+$ status
+
+> Building something new...
