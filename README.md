@@ -41,23 +41,11 @@ Sou desenvolvedor Front-end apaixonado por transformar ideias em experiências d
 ### 💻 Tech Stack
 <div align="center"> <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,nodejs,postgres,git,github,figma,vscode" /> </div> <br/>
 
-<!--
-### 💻 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,postgres,git,github,figma" />
-</p>
-
-<br> -->
-github-readme-stats-13kmvjhzx-henrique-senas-projects.vercel.app
-github-readme-stats-seven-omega-43.vercel.app
-
 <div align="center"> <img height="165" src="https://github-readme-stats-seven-omega-43.vercel.app/api?username=hsenadasilva132&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=8E2DE2&icon_color=8E2DE2" /> <img height="165" src="https://github-readme-stats-seven-omega-43.vercel.app/api/top-langs/?username=hsenadasilva132&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> <img src="https://streak-stats.demolab.com/?user=hsenadasilva132&theme=radical&hide_border=true&background=0D1117&ring=8E2DE2&fire=4A00E0" /> <img src="https://github-readme-stats-seven-omega-43.vercel.app/?username=hsenadasilva132&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" /> </div>
 <br/>
 
 🚀 Projetos em destaque
 <div align="center"> <a href="https://github.com/hsenadasilva132/Vue_Pizzaria"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=Vue_Pizzaria&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/cinemark"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=cinemark&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/Repository-Tailwind"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=Repository-Tailwind&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/senna-store"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=senna-store&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> </div>
-
 
 
 2023 ── 🌱 Primeiros passos em HTML, CSS e JavaScript
