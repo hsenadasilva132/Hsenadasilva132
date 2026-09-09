@@ -56,6 +56,22 @@ Sou desenvolvedor Front-end apaixonado por transformar ideias em experiências d
 🚀 Projetos em destaque
 <div align="center"> <a href="https://github.com/hsenadasilva132/Vue_Pizzaria"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsenadasilva132&repo=Vue_Pizzaria&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/cinemark"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsenadasilva132&repo=cinemark&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/Repository-Tailwind"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsenadasilva132&repo=Repository-Tailwind&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/Portif-lio-Inicial"> <img src="https://github-readme-stats.vercel.app/api/pin/?username=hsenadasilva132&repo=Portif-lio-Inicial&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> </div>
 
+
+
+2023 ── 🌱 Primeiros passos em HTML, CSS e JavaScript
+  │
+2024 ── 🎨 Comecei a converter layouts do Figma em páginas reais
+  │       (Repository-Tailwind, cinemark)
+  │
+2025 ── ⚙️ Explorando frameworks front-end
+  │       (Vue.js → Vue_Pizzaria)
+  │
+2026 ── 🚀 Aprofundando em JavaScript moderno e dando os
+  │       primeiros passos rumo ao Full Stack
+  │       (Node.js, APIs, PostgreSQL)
+  │
+Hoje ── 💻 Construindo, aprendendo e evoluindo a cada projeto
+
 <!--
 <table>
   <tr>
