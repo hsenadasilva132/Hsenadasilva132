@@ -7,13 +7,7 @@
     width="100%"
   />
 </p>
-
-## 👨‍💻 Sobre mim
-
-<table>
-  <tr>
-    <td width="100%" valign="top">
-      <h3>Olá! Eu sou Henrique 👋</h3>
+<h2>Sobre mim</h2>
       <p>
         Sou desenvolvedor <strong>Front-end</strong> apaixonado por transformar
         ideias em experiências digitais modernas, funcionais e responsivas.
@@ -27,9 +21,6 @@
         <strong>JavaScript</strong> e evoluindo cada vez mais em
         <strong>desenvolvimento Full Stack</strong>.
       </p>
-    </td>
-  </tr>
-</table>
 
 <br>
 
@@ -67,4 +58,44 @@
 
 <p align="center">
   <i>"Always building. Always learning."</i>
+</p>
+<h2>📊 Developer Dashboard</h2>
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <strong>🚀 Projects</strong><br><br>
+      <h2>08</h2>
+    </td>
+    <td align="center" width="33%">
+      <strong>📦 Repositories</strong><br><br>
+      <h2>12</h2>
+    </td>
+    <td align="center" width="33%">
+      <strong>🔥 Contributions</strong><br><br>
+      <h2>327</h2>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<table>
+  <tr>
+    <td align="center">
+      <strong>⚡ Current Focus</strong><br><br>
+      React • Node.js • APIs • PostgreSQL • Full Stack Development
+    </td>
+  </tr>
+</table>
+
+<br>
+
+### 📈 Most Used Languages
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=hsenadasilva132&layout=compact&langs_count=6"
+    alt="Most Used Languages"
+  />
 </p>
