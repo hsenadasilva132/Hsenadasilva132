@@ -72,6 +72,24 @@ Sou desenvolvedor Front-end apaixonado por transformar ideias em experiências d
   │
 Hoje ── 💻 Construindo, aprendendo e evoluindo a cada projeto
 
+🥚 Easter Egg
+<details> <summary>🕹️ Clique aqui se você leu o README até o fim... (Konami Code ativado)</summary> <br/>
+↑ ↑ ↓ ↓ ← → ← → B A
+Você encontrou o easter egg! 🎉
+
+Curiosidade real sobre mim:
+
+☕ Café é praticamente uma dependência de build no meu ambiente de dev.
+🐛 Meu bug favorito de resolver é aquele que "só acontece em produção".
+🎧 Codo melhor com uma boa playlist lo-fi tocando.
+
+Se você chegou até aqui, que tal deixar uma ⭐ em algum dos meus repositórios?
+
+</details> <br/>
+
+📬 Contato
+<div align="center"> <a href="https://www.linkedin.com/in/henrique-sena-da-silva" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="https://github.com/hsenadasilva132" target="_blank"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </div> <br/> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A00E0,100:8E2DE2&height=100&section=footer" width="100%"/> </div>
+
 <!--
 <table>
   <tr>
