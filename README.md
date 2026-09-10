@@ -53,7 +53,6 @@ Sou desenvolvedor **Front-end** apaixonado por transformar ideias em experiênci
 
 </div>
 
-> 📌 As imagens acima são **dinâmicas**: elas se atualizam automaticamente sempre que alguém carrega este perfil, refletindo minhas estatísticas mais recentes do GitHub em tempo real.
 
 <br/>
 
@@ -76,7 +75,6 @@ Sou desenvolvedor **Front-end** apaixonado por transformar ideias em experiênci
 
 </div>
 
-> 💡 Dica: para fixar exatamente esses repositórios (ou outros) na página principal do seu perfil, vá em **Customize your pins** logo abaixo da sua bio no GitHub.
 
 <br/>
 
@@ -106,32 +104,10 @@ Hoje ── 💻 Construindo, aprendendo e evoluindo a cada projeto
   <img src="https://raw.githubusercontent.com/hsenadasilva132/hsenadasilva132/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
-> ⚙️ Essa animação é gerada automaticamente pelo GitHub Actions a partir do meu gráfico real de contribuições.
 
 <br/>
 
-## 🥚 Easter Egg
 
-<details>
-<summary>🕹️ Clique aqui se você leu o README até o fim... (Konami Code ativado)</summary>
-<br/>
-
-```
-↑ ↑ ↓ ↓ ← → ← → B A
-```
-
-Você encontrou o easter egg! 🎉
-
-Curiosidade real sobre mim:
-- ☕ Café é praticamente uma dependência de build no meu ambiente de dev.
-- 🐛 Meu bug favorito de resolver é aquele que "só acontece em produção".
-- 🎧 Codo melhor com uma boa playlist lo-fi tocando.
-
-Se você chegou até aqui, que tal deixar uma ⭐ em algum dos meus repositórios?
-
-</details>
-
-<br/>
 
 ## 📬 Contato
 
