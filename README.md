@@ -24,7 +24,7 @@ Sou desenvolvedor Front-end apaixonado por transformar ideias em experiências d
 # 🚀 Projetos em destaque
 <div align="center"> <a href="https://github.com/hsenadasilva132/Vue_Pizzaria"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=Vue_Pizzaria&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/cinemark"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=cinemark&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/Repository-Tailwind"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=Repository-Tailwind&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> <a href="https://github.com/hsenadasilva132/senna-store"> <img src="https://github-readme-stats-seven-omega-43.vercel.app/api/pin/?username=hsenadasilva132&repo=senna-store&theme=radical&hide_border=true&bg_color=0D1117&title_color=8E2DE2" /> </a> </div>
 <br/>
-
+```text
 2023 ── 🌱 Primeiros passos em HTML, CSS e JavaScript
   │
 2024 ── 🎨 Comecei a converter layouts do Figma em páginas reais
@@ -38,7 +38,7 @@ Sou desenvolvedor Front-end apaixonado por transformar ideias em experiências d
   │       (Node.js, APIs, PostgreSQL)
   │
 Hoje ── 💻 Construindo, aprendendo e evoluindo a cada projeto
-
+```
 
 <div align="center"> <img src="https://raw.githubusercontent.com/hsenadasilva132/hsenadasilva132/output/github-contribution-grid-snake.svg" alt="Snake animation" /> </div>
 
